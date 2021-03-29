@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이신영"
-  avatar           : "/assets/images/DSC_0041.JPG"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/DSC_0041.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "흥덕고등학생"
   location         : "대한민국, 경기"
   email            : "urishinyoung14@gmail.com"
